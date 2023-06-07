@@ -1,0 +1,3 @@
+[submodule "lensgpt"]
+	path = lensgpt
+	url = git@github.com:gelatodigital/lensgpt-tutorial.git
