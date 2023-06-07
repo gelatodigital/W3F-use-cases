@@ -1,3 +1,6 @@
 [submodule "v2-lensgpt"]
 	path = v2-lensgpt
 	url = git@github.com:gelatodigital/lensgpt-tutorial.git
+[submodule "v1-enzyme-vault"]
+	path = v1-enzyme-vault
+	url = git@github.com:gelatodigital/enzyme-poc.git
