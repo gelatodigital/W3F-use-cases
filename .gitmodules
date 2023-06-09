@@ -7,3 +7,15 @@
 [submodule "v2-bprotocol.liquidation"]
 	path = v2-bprotocol.liquidation
 	url = https://github.com/gelatodigital/w3f-bprotocol-liquidation.git
+[submodule "v2-nft-ai"]
+	path = v2-nft-ai
+	url = git@github.com:gelatodigital/w3f-nft-ai.git
+[submodule "v2-pyth-poc"]
+	path = v2-pyth-poc
+	url = git@github.com:gelatodigital/w3f-pyth-poc-v2.git
+[submodule "template-w3f-hardhat"]
+	path = template-w3f-hardhat
+	url = git@github.com:gelatodigital/web3-functions-hardhat-template.git
+[submodule "template-w3f"]
+	path = template-w3f
+	url = git@github.com:gelatodigital/web3-functions-template.git
