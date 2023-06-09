@@ -6,7 +6,7 @@ Github repo listing the existing use-cases and PoCs.
 
 ### Lens GPT Tutorial
 Description 3-4 lines
-Repo: [https://github.com/gelatodigital/lensgpt-tutorial](https://github.com/gelatodigital/lensgpt-tutorial)
+Repo: [https://github.com/gelatodigital/w3f-lensgpt-tutorial](https://github.com/gelatodigital/lensgpt-tutorial)
 
 
 
