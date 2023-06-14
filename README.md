@@ -70,7 +70,7 @@ It includes two different Web3 Functions demos:&nbsp;
 2 - Purge Uniswapv3 LP positions
 
 **Status**&nbsp;  
-🟢 Deployed&nbsp  
+🟢 Deployed&nbsp;  
 🔴 Hardhat Plugin 
 
 Repo: [https://github.com/gelatodigital/enzyme-poc](https://github.com/gelatodigital/enzyme-poc)
