@@ -3,8 +3,8 @@
 Github repo listing the existing use-cases and PoCs.
 
 ### Quick Links Use Cases
-[Lens GPT](https://github.com/gelatodigital/w3f-lensgpt-tutorial) | [Gelato Nft Bot](https://github.com/gelatodigital/w3f-nft-ai) | [BProtocol Liquidation](https://github.com/gelatodigital/w3f-bprotocol-liquidation) | [Pyth PoC](https://github.com/gelatodigital/w3f-pyth-poc-v2) | [Enzyme Vault](https://github.com/gelatodigital/enzyme-poc) 
-|---|---|---|---|---|
+[BProtocol Liquidation](https://github.com/gelatodigital/w3f-bprotocol-liquidation) | [Pyth PoC](https://github.com/gelatodigital/w3f-pyth-poc-v2) | [RedStone PoC](https://github.com/gelatodigital/w3f-red-stone-poc-v2) | [Lens GPT](https://github.com/gelatodigital/w3f-lensgpt-tutorial) | [Gelato Nft Bot](https://github.com/gelatodigital/w3f-nft-ai)  | [Enzyme Vault](https://github.com/gelatodigital/enzyme-poc) 
+|---|---|---|---|---|---|
 
 ### Quick Links Templates
 [Web3 Functions Hardhat Template](https://github.com/gelatodigital/web3-functions-hardhat-template) | [Web3 functions Template](/https://github.com/gelatodigital/web3-functions-template) 
@@ -34,6 +34,17 @@ Smart Oracle that using Pyth Network and Gelato Web3 functions to push prices on
 🟢 Hardhat Plugin
 
 Repo: [https://github.com/gelatodigital/w3f-pyth-poc-v2](https://github.com/gelatodigital/w3f-pyth-poc-v2)
+
+---
+
+### RedStone PoC
+Smart Oracle that using RedStone and Gelato Web3 functions to push prices on chain upon certain conditions&nbsp; 
+
+**Status**&nbsp;  
+🟢 Deployed&nbsp;  
+🟢 Hardhat Plugin
+
+Repo: [https://github.com/gelatodigital/w3f-red-stone-poc-v2](https://github.com/gelatodigital/w3f-red-stone-poc-v2)
 
 ---
 
