@@ -7,7 +7,7 @@ Github repo listing the existing use-cases and PoCs.
 |---|---|---|---|---|---|
 
 ### Quick Links Templates
-[Web3 Functions Hardhat Template](https://github.com/gelatodigital/web3-functions-hardhat-template) | [Web3 functions Template](/https://github.com/gelatodigital/web3-functions-template) 
+[Web3 Functions Hardhat Template](https://github.com/gelatodigital/web3-functions-hardhat-template) | [Web3 functions Template](https://github.com/gelatodigital/web3-functions-template) 
 |---|---|
 
 
