@@ -70,6 +70,17 @@ Repo: [https://github.com/gelatodigital/w3f-nft-ai](https://github.com/gelatodig
 
 ---
 
+### Task from Contract
+Web3 Function Task created from Smart Contract&nbsp; 
+
+**Status**&nbsp;  
+🟢 Deployed&nbsp;  
+🟢 Hardhat Plugin
+
+Repo: [https://github.com/gelatodigital/w3f-task-from-contract](https://github.com/gelatodigital/w3f-task-from-contract)
+
+---
+
 &nbsp;  
 ## Examples in V1 to be updated
 

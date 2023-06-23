@@ -22,3 +22,6 @@
 [submodule "v2-red-stone-poc"]
 	path = v2-red-stone-poc
 	url = https://github.com/gelatodigital/w3f-red-stone-poc-v2
+[submodule "v2-task-from-contract"]
+	path = v2-task-from-contract
+	url = https://github.com/gelatodigital/w3f-task-from-contract
