@@ -3,8 +3,16 @@
 Github repo listing the existing use-cases and PoCs.
 
 ### Quick Links Use Cases
-[BProtocol Liquidation](https://github.com/gelatodigital/w3f-bprotocol-liquidation) | [Pyth PoC](https://github.com/gelatodigital/w3f-pyth-poc-v2) | [RedStone PoC](https://github.com/gelatodigital/w3f-red-stone-poc-v2) | [Lens GPT](https://github.com/gelatodigital/w3f-lensgpt-tutorial) | [Gelato Nft Bot](https://github.com/gelatodigital/w3f-nft-ai)  | [Enzyme Vault](https://github.com/gelatodigital/enzyme-poc) 
-|---|---|---|---|---|---|
+- [BProtocol Liquidation](https://github.com/gelatodigital/w3f-bprotocol-liquidation) 
+- [Pyth Oracle PoC](https://github.com/gelatodigital/w3f-pyth-poc-v2)
+- [RedStone Oracle PoC](https://github.com/gelatodigital/w3f-red-stone-poc-v2)
+- [Contract dynamically creating Web3 Functions](https://github.com/gelatodigital/w3f-task-from-contract)
+- [Shared Storage between Tasks](https://github.com/gelatodigital/w3f-shared-storage-between-tasks-polybase)
+- [Automatic Bribing](https://github.com/gelatodigital/w3f-automated-bribing)
+- [Lens GPT](https://github.com/gelatodigital/w3f-lensgpt-tutorial)
+- [Gelato Nft Bot](https://github.com/gelatodigital/w3f-nft-ai)
+- [Enzyme Vault](https://github.com/gelatodigital/enzyme-poc) 
+
 
 ### Quick Links Templates
 [Web3 Functions Hardhat Template](https://github.com/gelatodigital/web3-functions-hardhat-template) | [Web3 functions Template](https://github.com/gelatodigital/web3-functions-template) 
@@ -26,7 +34,7 @@ Repo: [https://github.com/gelatodigital/w3f-bprotocol-liquidation](https://githu
 
 ---
 
-### Pyth PoC
+### Custom Oracle woth Pyth PoC
 Smart Oracle that using Pyth Network and Gelato Web3 functions to push prices on chain upon certain conditions&nbsp; 
 
 **Status**&nbsp;  
@@ -37,7 +45,7 @@ Repo: [https://github.com/gelatodigital/w3f-pyth-poc-v2](https://github.com/gela
 
 ---
 
-### RedStone PoC
+### Custom Oracle with RedStone PoC
 Smart Oracle that using RedStone and Gelato Web3 functions to push prices on chain upon certain conditions&nbsp; 
 
 **Status**&nbsp;  
@@ -45,6 +53,39 @@ Smart Oracle that using RedStone and Gelato Web3 functions to push prices on cha
 🟢 Hardhat Plugin
 
 Repo: [https://github.com/gelatodigital/w3f-red-stone-poc-v2](https://github.com/gelatodigital/w3f-red-stone-poc-v2)
+
+---
+
+### Creating Web3 Functions from Contract
+Web3 Function Task created from Smart Contract&nbsp; 
+
+**Status**&nbsp;  
+🟢 Deployed&nbsp;  
+🟢 Hardhat Plugin
+
+Repo: [https://github.com/gelatodigital/w3f-task-from-contract](https://github.com/gelatodigital/w3f-task-from-contract)
+
+---
+
+### Shared Storage between functions
+This project showcases the possibiity to share storage (state) between two Web3 Functions tasks&nbsp; 
+
+**Status**&nbsp;  
+🟢 Deployed&nbsp;  
+🟢 Hardhat Plugin
+
+Repo: [https://github.com/gelatodigital/w3f-shared-storage-between-tasks-polybase](https://github.com/gelatodigital/w3f-shared-storage-between-tasks-polybase)
+
+---
+
+### Automatic Bribing PoC
+This project demonstrates automated bribing with configurable bribe plans stored on-chain&nbsp; 
+
+**Status**&nbsp;  
+🟢 Deployed&nbsp;  
+🟢 Hardhat Plugin
+
+Repo: [https://github.com/gelatodigital/w3f-automated-bribing](https://github.com/gelatodigital/w3f-automated-bribing)
 
 ---
 
@@ -70,16 +111,6 @@ Repo: [https://github.com/gelatodigital/w3f-nft-ai](https://github.com/gelatodig
 
 ---
 
-### Task from Contract
-Web3 Function Task created from Smart Contract&nbsp; 
-
-**Status**&nbsp;  
-🟢 Deployed&nbsp;  
-🟢 Hardhat Plugin
-
-Repo: [https://github.com/gelatodigital/w3f-task-from-contract](https://github.com/gelatodigital/w3f-task-from-contract)
-
----
 
 &nbsp;  
 ## Examples in V1 to be updated
