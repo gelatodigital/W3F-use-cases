@@ -34,7 +34,7 @@ Repo: [https://github.com/gelatodigital/w3f-bprotocol-liquidation](https://githu
 
 ---
 
-### Custom Oracle woth Pyth PoC
+### Custom Oracle with Pyth PoC
 Smart Oracle that using Pyth Network and Gelato Web3 functions to push prices on chain upon certain conditions&nbsp; 
 
 **Status**&nbsp;  
@@ -67,7 +67,7 @@ Repo: [https://github.com/gelatodigital/w3f-task-from-contract](https://github.c
 
 ---
 
-### Shared Storage between functions
+### Shared Storage between Web3 Functions
 This project showcases the possibiity to share storage (state) between two Web3 Functions tasks&nbsp; 
 
 **Status**&nbsp;  
