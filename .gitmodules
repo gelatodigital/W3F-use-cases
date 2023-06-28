@@ -28,6 +28,3 @@
 [submodule "v2-automatic-bribing"]
 	path = v2-automatic-bribing
 	url = https://github.com/gelatodigital/w3f-automated-bribing
-[submodule "v2-task-from-contract"]
-	path = v2-task-from-contract
-	url = https://github.com/gelatodigital/w3f-task-from-contract
