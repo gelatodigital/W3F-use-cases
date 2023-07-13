@@ -31,3 +31,6 @@
 [submodule "v2-task-from-contract"]
 	path = v2-task-from-contract
 	url = https://github.com/gelatodigital/w3f-task-from-contract
+[submodule "template-zkSync"]
+	path = template-zkSync
+	url = https://github.com/gelatodigital/w3f-zkSync-workshop
