@@ -16,7 +16,8 @@ Github repo listing the existing use-cases and PoCs.
 
 ### Quick Links Templates
 [Web3 Functions Hardhat Template](https://github.com/gelatodigital/web3-functions-hardhat-template) | [Web3 functions Template](https://github.com/gelatodigital/web3-functions-template) 
-|---|---|
+[ZkSync Web3 functions Template](https://github.com/gelatodigital/w3f-zkSync-workshop) 
+|---|---|---|
 
 
 &nbsp;  
@@ -135,11 +136,17 @@ Please clone these templates to speed run your development
 
 
 ### 👷‍ W3F Hardhat Template
-This repo inlcudes the hardhat plugin implementation as well as local unit testing taht will 🚀 your development
+This repo inlcudes the hardhat plugin implementation as well as local unit testing that will 🚀 your development
 Repo: [https://github.com/gelatodigital/web3-functions-hardhat-template](https://github.com/gelatodigital/web3-functions-hardhat-template)  
 
 ---------
 
 ### 🔭 W3F Template
 Use this template to write, test and deploy Web3 Functions.
+Repo: [https://github.com/gelatodigital/web3-functions-template](https://github.com/gelatodigital/web3-functions-template)
+
+---------
+
+### 👷‍ W3F Hardhat ZkSync Template
+This repo integrates the w3f hardhat plugin into a hardhat ZkSyn" project
 Repo: [https://github.com/gelatodigital/web3-functions-template](https://github.com/gelatodigital/web3-functions-template)
