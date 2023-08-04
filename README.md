@@ -3,7 +3,7 @@
 Github repo listing the existing use-cases and PoCs.
 
 ### Quick Links Use Cases
-- [BProtocol Liquidation](https://github.com/gelatodigital/w3f-bprotocol-liquidation) 
+- [BProtocol Liquidation](https://github.com/gelatodigital/w3f-bprotocol-liquidation)
 - [Pyth Oracle PoC](https://github.com/gelatodigital/w3f-pyth-poc-v2)
 - [RedStone Oracle PoC](https://github.com/gelatodigital/w3f-red-stone-poc-v2)
 - [Contract dynamically creating Web3 Functions](https://github.com/gelatodigital/w3f-task-from-contract)
@@ -11,7 +11,10 @@ Github repo listing the existing use-cases and PoCs.
 - [Automatic Bribing](https://github.com/gelatodigital/w3f-automated-bribing)
 - [Lens GPT](https://github.com/gelatodigital/w3f-lensgpt-tutorial)
 - [Gelato Nft Bot](https://github.com/gelatodigital/w3f-nft-ai)
-- [Enzyme Vault](https://github.com/gelatodigital/enzyme-poc) 
+- [Enzyme Vault](https://github.com/gelatodigital/enzyme-poc)
+- [Airdrop Claiming](https://github.com/gelatodigital/w3f-automated-claiming)
+- [Automated Topup](https://github.com/gelatodigital/w3f-automated-topup)
+- [Aggregate Fee Swapper](https://github.com/gelatodigital/w3f-fee-consolidator)
 
 
 ### Quick Links Templates
@@ -109,6 +112,39 @@ NFT powered by Stable Diffusion & Web3 functions&nbsp;
 🟢 Hardhat Plugin (missing unit tests)
 
 Repo: [https://github.com/gelatodigital/w3f-nft-ai](https://github.com/gelatodigital/w3f-nft-ai)
+
+---
+
+### Airdrop Claiming
+This project demonstrates automated airdrop claiming with configurable plans stored on-chain&nbsp;
+
+**Status**&nbsp;  
+🟢 Deployed&nbsp;  
+🟢 Hardhat Plugin
+
+Repo: [https://github.com/gelatodigital/w3f-automated-claiming](https://github.com/gelatodigital/w3f-automated-claiming)
+
+---
+
+### Automated Topup
+This project maintains an addresses (Smart Contract or EOA) balance at a desired value and periodically tops it up when below a specified threshold&nbsp;
+
+**Status**&nbsp;  
+🟢 Deployed&nbsp;  
+🟢 Hardhat Plugin
+
+Repo: [https://github.com/gelatodigital/w3f-automated-topup](https://github.com/gelatodigital/w3f-automated-topup)
+
+---
+
+### Aggregate Fee Swapper
+This project accrues various fee tokens and swaps them for a single user-specified token using an aggregator (1inch) once a certain threshold is exceeded&nbsp;
+
+**Status**&nbsp;  
+🟢 Deployed&nbsp;  
+🟢 Hardhat Plugin
+
+Repo: [https://github.com/gelatodigital/w3f-fee-consolidator](https://github.com/gelatodigital/w3f-fee-consolidator)
 
 ---
 
