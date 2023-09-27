@@ -19,12 +19,9 @@ Github repo listing the existing use-cases and PoCs.
 
 
 ### Quick Links Templates
-[Web3 Functions Hardhat Template](https://github.com/gelatodigital/web3-functions-hardhat-template) | [Web3 functions Template](https://github.com/gelatodigital/web3-functions-template) 
-[ZkSync Web3 functions Template](https://github.com/gelatodigital/w3f-zkSync-workshop) 
-|---|---|---|
-
-
-&nbsp;  
+- [Web3 Functions Hardhat Template](https://github.com/gelatodigital/web3-functions-hardhat-template)
+- [Web3 functions Template](https://github.com/gelatodigital/web3-functions-template) 
+- [ZkSync Web3 functions Template](https://github.com/gelatodigital/w3f-zkSync-workshop) 
 
 ## Examples in V2
 
