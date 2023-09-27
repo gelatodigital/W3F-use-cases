@@ -43,3 +43,6 @@
 [submodule "v2-fee-consolidator"]
 	path = v2-fee-consolidator
 	url = https://github.com/gelatodigital/w3f-fee-consolidator
+[submodule "v2-gasless-cctp"]
+	path = v2-gasless-cctp
+	url = https://github.com/gelatodigital/gasless-cctp
