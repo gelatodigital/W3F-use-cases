@@ -15,6 +15,7 @@ Github repo listing the existing use-cases and PoCs.
 - [Airdrop Claiming](https://github.com/gelatodigital/w3f-automated-claiming)
 - [Automated Topup](https://github.com/gelatodigital/w3f-automated-topup)
 - [Aggregate Fee Swapper](https://github.com/gelatodigital/w3f-fee-consolidator)
+- [Gasless CCTP](https://github.com/gelatodigital/gasless-cctp)
 
 
 ### Quick Links Templates
@@ -145,6 +146,17 @@ This project accrues various fee tokens and swaps them for a single user-specifi
 🟢 Hardhat Plugin
 
 Repo: [https://github.com/gelatodigital/w3f-fee-consolidator](https://github.com/gelatodigital/w3f-fee-consolidator)
+
+---
+
+### Gasless CCTP
+This project demonstrates gasless & automated cross-chain token transfer using Circle's CCTP as well as Gelato Relay and Gelato Web3 Functions&nbsp;
+
+**Status**&nbsp;  
+🟢 Deployed&nbsp;  
+🟢 Hardhat Plugin
+
+Repo: [https://github.com/gelatodigital/gasless-cctp](https://github.com/gelatodigital/gasless-cctp)
 
 ---
 
