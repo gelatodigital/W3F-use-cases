@@ -1,6 +1,3 @@
-[submodule "v2-lensgpt"]
-	path = v2-lensgpt
-	url = git@github.com:gelatodigital/lensgpt-tutorial.git
 [submodule "v1-enzyme-vault"]
 	path = v1-enzyme-vault
 	url = git@github.com:gelatodigital/enzyme-poc.git
@@ -46,3 +43,6 @@
 [submodule "v2-gasless-cctp"]
 	path = v2-gasless-cctp
 	url = https://github.com/gelatodigital/gasless-cctp
+[submodule "typescript-functions/v2-lensgpt"]
+	path = typescript-functions/v2-lensgpt
+	url = https://github.com/gelatodigital/w3f-lensgpt-tutorial.git
