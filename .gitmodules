@@ -22,9 +22,6 @@
 [submodule "template-zkSync"]
 	path = template-zkSync
 	url = https://github.com/gelatodigital/w3f-zkSync-workshop
-[submodule "v2-airdrop-claiming"]
-	path = v2-airdrop-claiming
-	url = https://github.com/gelatodigital/w3f-automated-claiming.git
 [submodule "v2-automated-topup"]
 	path = v2-automated-topup
 	url = https://github.com/gelatodigital/w3f-automated-topup
