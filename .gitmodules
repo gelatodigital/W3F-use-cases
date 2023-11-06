@@ -43,3 +43,6 @@
 [submodule "typescript-functions/v2-pyth-poc"]
 	path = typescript-functions/v2-pyth-poc
 	url = https://github.com/gelatodigital/w3f-pyth-poc-v2.git
+[submodule "typescript-functions/v2-airdrop-claiming"]
+	path = typescript-functions/v2-airdrop-claiming
+	url = https://github.com/gelatodigital/w3f-automated-claiming.git
