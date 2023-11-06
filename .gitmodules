@@ -1,9 +1,6 @@
 [submodule "v1-enzyme-vault"]
 	path = v1-enzyme-vault
 	url = git@github.com:gelatodigital/enzyme-poc.git
-[submodule "v2-pyth-poc"]
-	path = v2-pyth-poc
-	url = git@github.com:gelatodigital/w3f-pyth-poc-v2.git
 [submodule "template-w3f-hardhat"]
 	path = template-w3f-hardhat
 	url = git@github.com:gelatodigital/web3-functions-hardhat-template.git
