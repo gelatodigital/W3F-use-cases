@@ -19,9 +19,6 @@
 [submodule "template-zkSync"]
 	path = template-zkSync
 	url = https://github.com/gelatodigital/w3f-zkSync-workshop
-[submodule "v2-automated-topup"]
-	path = v2-automated-topup
-	url = https://github.com/gelatodigital/w3f-automated-topup
 [submodule "v2-fee-consolidator"]
 	path = v2-fee-consolidator
 	url = https://github.com/gelatodigital/w3f-fee-consolidator
@@ -49,3 +46,6 @@
 [submodule "solidity-functions/v2-solidity-synthetix"]
 	path = solidity-functions/v2-solidity-synthetix
 	url = https://github.com/gelatodigital/w3f-solidity-synthetix
+[submodule "typescript-functions/v2-automated-topup"]
+	path = typescript-functions/v2-automated-topup
+	url = https://github.com/gelatodigital/w3f-automated-topup.git
