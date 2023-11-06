@@ -1,6 +1,3 @@
-[submodule "v1-enzyme-vault"]
-	path = v1-enzyme-vault
-	url = git@github.com:gelatodigital/enzyme-poc.git
 [submodule "template-w3f-hardhat"]
 	path = template-w3f-hardhat
 	url = git@github.com:gelatodigital/web3-functions-hardhat-template.git
@@ -49,3 +46,6 @@
 [submodule "typescript-functions/v2-shared-storage-polybase"]
 	path = typescript-functions/v2-shared-storage-polybase
 	url = https://github.com/gelatodigital/w3f-shared-storage-between-tasks-polybase.git
+[submodule "typescript-functions/v1-enzyme-vault"]
+	path = typescript-functions/v1-enzyme-vault
+	url = https://github.com/gelatodigital/w3f-enzyme-poc.git
