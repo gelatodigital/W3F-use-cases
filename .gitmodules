@@ -43,3 +43,6 @@
 [submodule "typescript-functions/v2-nft-ai"]
 	path = typescript-functions/v2-nft-ai
 	url = https://github.com/gelatodigital/eth-muc-gelato.git
+[submodule "typescript-functions/v2-pyth-poc"]
+	path = typescript-functions/v2-pyth-poc
+	url = https://github.com/gelatodigital/w3f-pyth-poc-v2.git
