@@ -7,9 +7,6 @@
 [submodule "template-w3f"]
 	path = template-w3f
 	url = git@github.com:gelatodigital/web3-functions-template.git
-[submodule "v2-red-stone-poc"]
-	path = v2-red-stone-poc
-	url = https://github.com/gelatodigital/w3f-red-stone-poc-v2
 [submodule "v2-shared-storage-polybase"]
 	path = v2-shared-storage-polybase
 	url = https://github.com/gelatodigital/w3f-shared-storage-between-tasks-polybase
@@ -49,3 +46,6 @@
 [submodule "typescript-functions/v2-automated-topup"]
 	path = typescript-functions/v2-automated-topup
 	url = https://github.com/gelatodigital/w3f-automated-topup.git
+[submodule "typescript-functions/v2-red-stone-poc"]
+	path = typescript-functions/v2-red-stone-poc
+	url = https://github.com/gelatodigital/w3f-red-stone-poc-v2.git
