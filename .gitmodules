@@ -43,3 +43,6 @@
 [submodule "typescript-functions/v2-lensgpt"]
 	path = typescript-functions/v2-lensgpt
 	url = https://github.com/gelatodigital/w3f-lensgpt-tutorial.git
+[submodule "typescript-functions/v2-bprotocol-liquidation"]
+	path = typescript-functions/v2-bprotocol-liquidation
+	url = https://github.com/gelatodigital/w3f-bprotocol-liquidation.git
