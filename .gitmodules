@@ -1,9 +1,6 @@
 [submodule "v1-enzyme-vault"]
 	path = v1-enzyme-vault
 	url = git@github.com:gelatodigital/enzyme-poc.git
-[submodule "v2-bprotocol.liquidation"]
-	path = v2-bprotocol.liquidation
-	url = https://github.com/gelatodigital/w3f-bprotocol-liquidation.git
 [submodule "v2-nft-ai"]
 	path = v2-nft-ai
 	url = git@github.com:gelatodigital/w3f-nft-ai.git
