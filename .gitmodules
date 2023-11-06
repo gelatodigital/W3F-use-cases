@@ -1,15 +1,6 @@
-[submodule "template-w3f-hardhat"]
-	path = template-w3f-hardhat
-	url = git@github.com:gelatodigital/web3-functions-hardhat-template.git
-[submodule "template-w3f"]
-	path = template-w3f
-	url = git@github.com:gelatodigital/web3-functions-template.git
 [submodule "v2-task-from-contract"]
 	path = v2-task-from-contract
 	url = https://github.com/gelatodigital/w3f-task-from-contract
-[submodule "template-zkSync"]
-	path = template-zkSync
-	url = https://github.com/gelatodigital/w3f-zkSync-workshop
 [submodule "typescript-functions/v2-lensgpt"]
 	path = typescript-functions/v2-lensgpt
 	url = https://github.com/gelatodigital/w3f-lensgpt-tutorial.git
@@ -49,3 +40,12 @@
 [submodule "typescript-functions/v1-enzyme-vault"]
 	path = typescript-functions/v1-enzyme-vault
 	url = https://github.com/gelatodigital/w3f-enzyme-poc.git
+[submodule "templates/template-w3f"]
+	path = templates/template-w3f
+	url = https://github.com/gelatodigital/web3-functions-template.git
+[submodule "templates/template-w3f-hardhat"]
+	path = templates/template-w3f-hardhat
+	url = https://github.com/gelatodigital/web3-functions-hardhat-template.git
+[submodule "templates/template-zkSync"]
+	path = templates/template-zkSync
+	url = https://github.com/gelatodigital/w3f-zkSync-workshop.git
