@@ -7,21 +7,12 @@
 [submodule "template-w3f"]
 	path = template-w3f
 	url = git@github.com:gelatodigital/web3-functions-template.git
-[submodule "v2-shared-storage-polybase"]
-	path = v2-shared-storage-polybase
-	url = https://github.com/gelatodigital/w3f-shared-storage-between-tasks-polybase
 [submodule "v2-task-from-contract"]
 	path = v2-task-from-contract
 	url = https://github.com/gelatodigital/w3f-task-from-contract
 [submodule "template-zkSync"]
 	path = template-zkSync
 	url = https://github.com/gelatodigital/w3f-zkSync-workshop
-[submodule "v2-fee-consolidator"]
-	path = v2-fee-consolidator
-	url = https://github.com/gelatodigital/w3f-fee-consolidator
-[submodule "v2-gasless-cctp"]
-	path = v2-gasless-cctp
-	url = https://github.com/gelatodigital/gasless-cctp
 [submodule "typescript-functions/v2-lensgpt"]
 	path = typescript-functions/v2-lensgpt
 	url = https://github.com/gelatodigital/w3f-lensgpt-tutorial.git
@@ -49,3 +40,12 @@
 [submodule "typescript-functions/v2-red-stone-poc"]
 	path = typescript-functions/v2-red-stone-poc
 	url = https://github.com/gelatodigital/w3f-red-stone-poc-v2.git
+[submodule "typescript-functions/v2-fee-consolidator"]
+	path = typescript-functions/v2-fee-consolidator
+	url = https://github.com/gelatodigital/w3f-fee-consolidator.git
+[submodule "typescript-functions/v2-gasless-cctp"]
+	path = typescript-functions/v2-gasless-cctp
+	url = https://github.com/gelatodigital/gasless-cctp.git
+[submodule "typescript-functions/v2-shared-storage-polybase"]
+	path = typescript-functions/v2-shared-storage-polybase
+	url = https://github.com/gelatodigital/w3f-shared-storage-between-tasks-polybase.git
