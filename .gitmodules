@@ -1,48 +1,51 @@
-[submodule "v2-lensgpt"]
-	path = v2-lensgpt
-	url = git@github.com:gelatodigital/lensgpt-tutorial.git
-[submodule "v1-enzyme-vault"]
-	path = v1-enzyme-vault
-	url = git@github.com:gelatodigital/enzyme-poc.git
-[submodule "v2-bprotocol.liquidation"]
-	path = v2-bprotocol.liquidation
-	url = https://github.com/gelatodigital/w3f-bprotocol-liquidation.git
-[submodule "v2-nft-ai"]
-	path = v2-nft-ai
-	url = git@github.com:gelatodigital/w3f-nft-ai.git
-[submodule "v2-pyth-poc"]
-	path = v2-pyth-poc
-	url = git@github.com:gelatodigital/w3f-pyth-poc-v2.git
-[submodule "template-w3f-hardhat"]
-	path = template-w3f-hardhat
-	url = git@github.com:gelatodigital/web3-functions-hardhat-template.git
-[submodule "template-w3f"]
-	path = template-w3f
-	url = git@github.com:gelatodigital/web3-functions-template.git
-[submodule "v2-red-stone-poc"]
-	path = v2-red-stone-poc
-	url = https://github.com/gelatodigital/w3f-red-stone-poc-v2
-[submodule "v2-shared-storage-polybase"]
-	path = v2-shared-storage-polybase
-	url = https://github.com/gelatodigital/w3f-shared-storage-between-tasks-polybase
-[submodule "v2-automatic-bribing"]
-	path = v2-automatic-bribing
-	url = https://github.com/gelatodigital/w3f-automated-bribing
 [submodule "v2-task-from-contract"]
 	path = v2-task-from-contract
 	url = https://github.com/gelatodigital/w3f-task-from-contract
-[submodule "template-zkSync"]
-	path = template-zkSync
-	url = https://github.com/gelatodigital/w3f-zkSync-workshop
-[submodule "v2-airdrop-claiming"]
-	path = v2-airdrop-claiming
+[submodule "typescript-functions/v2-lensgpt"]
+	path = typescript-functions/v2-lensgpt
+	url = https://github.com/gelatodigital/w3f-lensgpt-tutorial.git
+[submodule "typescript-functions/v2-bprotocol-liquidation"]
+	path = typescript-functions/v2-bprotocol-liquidation
+	url = https://github.com/gelatodigital/w3f-bprotocol-liquidation.git
+[submodule "typescript-functions/v2-nft-ai"]
+	path = typescript-functions/v2-nft-ai
+	url = https://github.com/gelatodigital/eth-muc-gelato.git
+[submodule "typescript-functions/v2-pyth-poc"]
+	path = typescript-functions/v2-pyth-poc
+	url = https://github.com/gelatodigital/w3f-pyth-poc-v2.git
+[submodule "typescript-functions/v2-airdrop-claiming"]
+	path = typescript-functions/v2-airdrop-claiming
 	url = https://github.com/gelatodigital/w3f-automated-claiming.git
-[submodule "v2-automated-topup"]
-	path = v2-automated-topup
-	url = https://github.com/gelatodigital/w3f-automated-topup
-[submodule "v2-fee-consolidator"]
-	path = v2-fee-consolidator
-	url = https://github.com/gelatodigital/w3f-fee-consolidator
-[submodule "v2-gasless-cctp"]
-	path = v2-gasless-cctp
-	url = https://github.com/gelatodigital/gasless-cctp
+[submodule "typescript-functions/v2-automatic-bribing"]
+	path = typescript-functions/v2-automatic-bribing
+	url = https://github.com/gelatodigital/w3f-automated-bribing.git
+[submodule "solidity-functions/v2-solidity-synthetix"]
+	path = solidity-functions/v2-solidity-synthetix
+	url = https://github.com/gelatodigital/w3f-solidity-synthetix
+[submodule "typescript-functions/v2-automated-topup"]
+	path = typescript-functions/v2-automated-topup
+	url = https://github.com/gelatodigital/w3f-automated-topup.git
+[submodule "typescript-functions/v2-red-stone-poc"]
+	path = typescript-functions/v2-red-stone-poc
+	url = https://github.com/gelatodigital/w3f-red-stone-poc-v2.git
+[submodule "typescript-functions/v2-fee-consolidator"]
+	path = typescript-functions/v2-fee-consolidator
+	url = https://github.com/gelatodigital/w3f-fee-consolidator.git
+[submodule "typescript-functions/v2-gasless-cctp"]
+	path = typescript-functions/v2-gasless-cctp
+	url = https://github.com/gelatodigital/gasless-cctp.git
+[submodule "typescript-functions/v2-shared-storage-polybase"]
+	path = typescript-functions/v2-shared-storage-polybase
+	url = https://github.com/gelatodigital/w3f-shared-storage-between-tasks-polybase.git
+[submodule "typescript-functions/v1-enzyme-vault"]
+	path = typescript-functions/v1-enzyme-vault
+	url = https://github.com/gelatodigital/w3f-enzyme-poc.git
+[submodule "templates/template-w3f"]
+	path = templates/template-w3f
+	url = https://github.com/gelatodigital/web3-functions-template.git
+[submodule "templates/template-w3f-hardhat"]
+	path = templates/template-w3f-hardhat
+	url = https://github.com/gelatodigital/web3-functions-hardhat-template.git
+[submodule "templates/template-zkSync"]
+	path = templates/template-zkSync
+	url = https://github.com/gelatodigital/w3f-zkSync-workshop.git
